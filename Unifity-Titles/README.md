@@ -4,12 +4,21 @@ This is an assignment from one of my interviews. The objective is to unify title
 
 Some sample unified title are provided in the first few rows in  `unified_title` column
 
+In general, this small project is a good practice of text mining/cleaning. I had fun with it 😆
+
 **Programming Language**: 
 	
  - Python
 
 **Algorithms/Modules**
 
- - Longest Common Substring
+ - Dynamic Programming
  - List comprehension
- - s
+ - Regular Expression
+
+**Packages/Libraries**
+
+ - pandas
+ - numpy
+ - re
+ - string
